@@ -9,3 +9,5 @@
 #### IDE Editor
  * [Visual Studio Code](https://code.visualstudio.com)
  * [Julia Extension](https://github.com/julia-vscode/julia-vscode)
+ 
+ [![Run on Repl.it](https://repl.it/badge/github/CubicleJockey/julia-playground)](https://repl.it/github/CubicleJockey/julia-playground)
